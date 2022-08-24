@@ -1,3 +1,3 @@
 # 
 
-A repo with solutions to distinct Competitive Programming problemsets 
+A repo with solutions to distinct Competitive Programming problem sets 
