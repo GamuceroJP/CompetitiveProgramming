@@ -4,12 +4,10 @@ using namespace std;
 void print_vector(vector<int> &v){
 	if(v.size()){
 		for(int i = 0; i<(int)v.size(); i++){
-			cout<<v[i]<<"\n";
+			cout<<v[i]<<" ";
 		}
 	}
-	else{
-		cout<<"\n";
-	}
+	cout<<"\n";
 }
 int main()
 {
